@@ -1,0 +1,167 @@
+.butn{
+	width:110px;
+	position:relative;
+	left:1000px;
+	padding:0px;
+	height:0px;
+	box-shadow:3px 3px black;
+	background-color:black;
+	color:white;
+}
+.buttonn{
+	background-color:black;
+	color:white;
+	font-size:20px;
+	box-shadow:5px 5px black;
+}	
+body{
+	background-image:url("pic1.jpg");;
+	background-repeat:no-repeat;
+	
+}
+ab{
+	color:white;
+}	
+.nv-head{
+	color:white;
+	font-family:arial;
+	
+}	
+.nv-heading{
+	text-align:center;
+	border-radius:10px;
+	background-image:ur(".jpeg");
+	width:330px;
+	position:relative;
+	left:450px;
+	font-size:30px;
+}	
+.npizza1{
+	color:white;
+	font-size:30px;
+	background-image:url("piz.jpg");
+	position:relative;
+	top:50px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+}
+.npizza2{
+	color:black;
+	font-size:30px;
+	background-image:url("meat.jpg");
+	position:relative;
+	top:100px;
+	bottom:100px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+}
+.npizza3{
+	color:white;
+	font-size:30px;
+	background-image:url("bbq.jpg");
+	position:relative;
+	top:150px;
+	bottom:100px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+}
+.nsnack1{
+	color:red;
+	font-size:30px;
+	background-image:url("bite.jpg");
+	position:relative;
+	top:200px;
+	bottom:100px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+}
+.nsnack2{
+	color:white;
+	font-size:30px;
+	background-image:url("balls.jpg");
+	position:relative;
+	top:250px;
+	bottom:100px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+}
+.nramen{
+	color:black;
+	font-size:30px;
+	background-image:url("sp.ramen.jpg");
+	position:relative;
+	top:300px;
+	bottom:100px;
+	width:1000px;
+	height:200px;
+	position:relative;
+	left:160px;
+	border-radius:30px;
+	text-align:center;
+	box-shadow:6px 6px black;
+	height:220px;
+}
+body{
+margin:0;
+background:#f2f2f2f;
+}
+.nav{
+width:100%;
+background:black;
+height:150px;
+}
+ul{
+list-style:none;
+padding:0;
+margin:0;
+position:absolute;
+}
+ul li{
+float:left;
+margin-top:5px;
+
+}
+ul li a{
+width:150px;
+color:white;
+display:block;
+text-decoration:none;
+font-size:20px;
+text-align:center;
+padding:10px;
+border-radius:10px;
+font-family:century Gothic;
+font-weight:bold;
+}
+a:hover{
+background:#6A5ACD;
+}
+
+H1{
+color:white;
+}		

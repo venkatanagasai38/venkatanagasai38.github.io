@@ -1,0 +1,112 @@
+body{
+	background:url("night.png") 0,0;
+	background-repeat:no-repeat;
+	background-size:1400px 700px;
+	background-color:pink;	
+}
+.he1{
+	text-align:center;
+	font-family:arial;
+	font-size:80px;
+	color:white;
+	
+	border-style: solid;
+	border-color:white;
+	border-width:3px;
+	
+}
+.sub{
+	font-size:25px;
+}	
+.d{
+	padding:40px;
+}
+.roll{
+	background-color:white;
+	color:black;
+	box-shadow:5px 5px 5px black;
+}
+.he2{
+	color:black;
+	text-align:center;
+	font-family:arial;
+	font-size:40;
+	border-width:3px;
+	
+}	
+.d1{
+	background-color:white;
+	width:200px;
+	box-shadow:5px 5px 5px black;
+}
+.p1{
+	text-align:center;
+	font-family:arial;
+	color:black;
+	font-size:20px;
+	padding:20px;
+	box-shadow:5px 5px 5px black;
+	float:left;
+	background-color:white;
+}
+.d2{
+	background-color:white;
+	width:600px;
+	text-align:center;
+	position:relative;
+	bottom:45px;
+}	
+
+.button{
+	color:pink;
+	background-color:blue;
+	font-family:arial;
+	font-size:25px;
+	text-align:center;
+	border-radius:10px;
+	font-weight:bold;
+}
+.btn{
+	border-color:black;
+	width:144px;
+	float:right;
+	position:relative;
+	right:250px;
+	top:100px;
+	box-shadow:5px 5px 5px black;
+}	
+.nav{
+width:100%;
+background:black;
+height:150px;
+}
+ul{
+list-style:none;
+padding:0;
+margin:0;
+position:absolute;
+}
+ul li{
+float:left;
+margin-top:5px;
+
+}
+ul li a{
+width:150px;
+color:white;
+display:block;
+text-decoration:none;
+font-size:20px;
+text-align:center;
+padding:10px;
+border-radius:10px;
+font-family:century Gothic;
+font-weight:bold;
+}
+a:hover{
+background:#6A5ACD;
+}
+
+H1{
+color:white;
+}		
